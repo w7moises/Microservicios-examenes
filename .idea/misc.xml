@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/commons-alumnos/pom.xml" />
+        <option value="$PROJECT_DIR$/commons-examenes/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicios-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicios-cursos/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicios-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/commons-microservicios/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicios-examenes/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicios-usuarios/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicios-respuestas/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicios-gateway/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK" />
+</project>
